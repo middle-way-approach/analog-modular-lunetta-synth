@@ -10,7 +10,7 @@ This repository contains components of an easy to build analog, modular lunetta-
 |MIXER|![MIXER](mixer/preview.png)|
 |VCF|coming soon...|
 
-The single circuits are described in their respective folders. 
+The single circuits are described in their respective folders and there is a link to the simulation.
 
 ## Design 
 The components can operate with single supply voltages and are designed to be very cost efficient. They use mainly 10k resistors, 100n capacitors, common op-amps and NE555 timers. Additionately they can be built very efficiently. E.g. you can build 2 vcos from a NE556 chip or a quad vca from an LM324. 
