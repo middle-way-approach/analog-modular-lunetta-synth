@@ -8,7 +8,7 @@ This repository contains components of an easy to build analog, modular lunetta-
 |[VCA](https://github.com/middle-way-approach/analog-modular-lunetta-synth/tree/master/vca)|![VCA](vca/preview.png)|
 |[LFO](https://github.com/middle-way-approach/analog-modular-lunetta-synth/tree/master/lfo)|![LFO](lfo/preview.png)|
 |[MIXER](https://github.com/middle-way-approach/analog-modular-lunetta-synth/tree/master/mixer)|![MIXER](mixer/preview.png)|
-|VCF|coming soon...|
+|[VCF](https://github.com/middle-way-approach/analog-modular-lunetta-synth/tree/master/vcf)|coming soon...|
 
 The single circuits are described in their respective folders and there is a link to the simulation.
 
